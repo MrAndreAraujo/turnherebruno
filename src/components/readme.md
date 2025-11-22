@@ -1,0 +1,1 @@
+This directory will contain all components of the application

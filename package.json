@@ -1,9 +1,9 @@
 {
   "name": "turn-here-app",
   "version": "0.0.0",
-  "homepage": "https://MrAndreAraujo.github.io/turnherebruno",
+  "homepage": "https://MrAndreAraujo.github.io/turnherebruno/",
   "private": true,
-  "type": "module",
+  "type": "module", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
